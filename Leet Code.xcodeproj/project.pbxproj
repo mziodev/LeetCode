@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		08650D762C69F1CD0083C61D /* 2236_RootEqualsSumOfChildren.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2236_RootEqualsSumOfChildren.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1672_RichestCustomerWealth.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08C553CD2C675C15006FCB1D /* 2235_AddTwoIntegers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2235_AddTwoIntegers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08C553CE2C675C45006FCB1D /* 1480_RunningSumOf1dArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1480_RunningSumOf1dArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -19,6 +20,7 @@
 				08C553CD2C675C15006FCB1D /* 2235_AddTwoIntegers.playground */,
 				08650D762C69F1CD0083C61D /* 2236_RootEqualsSumOfChildren.playground */,
 				08C553CE2C675C45006FCB1D /* 1480_RunningSumOf1dArray.playground */,
+				08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */,
 			);
 			sourceTree = "<group>";
 		};
