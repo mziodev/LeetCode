@@ -9,22 +9,26 @@
 /* Begin PBXFileReference section */
 		08650D762C69F1CD0083C61D /* 2236_RootEqualsSumOfChildren.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2236_RootEqualsSumOfChildren.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1672_RichestCustomerWealth.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0869FDAC2C70870E00DB54BD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1342_NumberOfStepsToReduceANumberToZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08B1326D2C6B49C000481DA5 /* 412_FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 412_FizzBuzz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08C553CD2C675C15006FCB1D /* 2235_AddTwoIntegers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2235_AddTwoIntegers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08C553CE2C675C45006FCB1D /* 1480_RunningSumOf1dArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1480_RunningSumOf1dArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		08E4FE2A2C6DEC13006F1673 /* 876_MiddleOfTheLinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 876_MiddleOfTheLinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		08C553C62C675BE3006FCB1D = {
 			isa = PBXGroup;
 			children = (
+				0869FDAC2C70870E00DB54BD /* README.md */,
 				08C553CD2C675C15006FCB1D /* 2235_AddTwoIntegers.playground */,
 				08650D762C69F1CD0083C61D /* 2236_RootEqualsSumOfChildren.playground */,
 				08C553CE2C675C45006FCB1D /* 1480_RunningSumOf1dArray.playground */,
 				08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */,
 				08B1326D2C6B49C000481DA5 /* 412_FizzBuzz.playground */,
 				086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */,
+				08E4FE2A2C6DEC13006F1673 /* 876_MiddleOfTheLinkedList.playground */,
 			);
 			sourceTree = "<group>";
 		};
