@@ -13,6 +13,8 @@
 		0869FDAC2C70870E00DB54BD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1342_NumberOfStepsToReduceANumberToZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087C71952C71F4460026D705 /* 383_RansomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_RansomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		08A720CF2C7B27B200A34C3B /* SquaresOfASortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SquaresOfASortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		08A720D02C7B2B5500A34C3B /* DuplicateZeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DuplicateZeros.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08B1326D2C6B49C000481DA5 /* 412_FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 412_FizzBuzz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08C553CD2C675C15006FCB1D /* 2235_AddTwoIntegers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2235_AddTwoIntegers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08C553CE2C675C45006FCB1D /* 1480_RunningSumOf1dArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1480_RunningSumOf1dArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -35,6 +37,8 @@
 				087C71952C71F4460026D705 /* 383_RansomNote.playground */,
 				08CACB312C7879A50068AC60 /* MaxConsecutiveOnes.playground */,
 				080133052C79C9D700F53C4E /* FindNumbersWithEvenNumberOfDigits.playground */,
+				08A720CF2C7B27B200A34C3B /* SquaresOfASortedArray.playground */,
+				08A720D02C7B2B5500A34C3B /* DuplicateZeros.playground */,
 			);
 			sourceTree = "<group>";
 		};
