@@ -13,7 +13,7 @@
 		08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1672_RichestCustomerWealth.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0869FDAC2C70870E00DB54BD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1342_NumberOfStepsToReduceANumberToZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		086F6AD52C83057300495E63 /* 27_RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 27_RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		086F6AD52C83057300495E63 /* 26_RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26_RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087C71952C71F4460026D705 /* 383_RansomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_RansomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08A720CF2C7B27B200A34C3B /* 977_SquaresOfASortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 977_SquaresOfASortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08A720D02C7B2B5500A34C3B /* 1089_DuplicateZeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1089_DuplicateZeros.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -30,7 +30,7 @@
 			isa = PBXGroup;
 			children = (
 				0869FDAC2C70870E00DB54BD /* README.md */,
-				086F6AD52C83057300495E63 /* 27_RemoveDuplicatesFromSortedArray.playground */,
+				086F6AD52C83057300495E63 /* 26_RemoveDuplicatesFromSortedArray.playground */,
 				082419E82C81B1DB008BE7D1 /* 27_RemoveElement.playground */,
 				08AE319F2C7DC2EA00A61EF9 /* 88_MergeSortedArray.playground */,
 				087C71952C71F4460026D705 /* 383_RansomNote.playground */,
