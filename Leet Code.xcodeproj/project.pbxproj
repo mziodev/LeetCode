@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		080133052C79C9D700F53C4E /* 1295_FindNumbersWithEvenNumberOfDigits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1295_FindNumbersWithEvenNumberOfDigits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		082419E82C81B1DB008BE7D1 /* 27_RemoveElement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 27_RemoveElement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08650D762C69F1CD0083C61D /* 2236_RootEqualsSumOfChildren.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2236_RootEqualsSumOfChildren.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1672_RichestCustomerWealth.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0869FDAC2C70870E00DB54BD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -28,6 +29,7 @@
 			isa = PBXGroup;
 			children = (
 				0869FDAC2C70870E00DB54BD /* README.md */,
+				082419E82C81B1DB008BE7D1 /* 27_RemoveElement.playground */,
 				08AE319F2C7DC2EA00A61EF9 /* 88_MergeSortedArray.playground */,
 				087C71952C71F4460026D705 /* 383_RansomNote.playground */,
 				08B1326D2C6B49C000481DA5 /* 412_FizzBuzz.playground */,
