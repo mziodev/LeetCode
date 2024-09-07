@@ -15,6 +15,7 @@
 		086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1342_NumberOfStepsToReduceANumberToZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		086F6AD52C83057300495E63 /* 26_RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26_RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087C71952C71F4460026D705 /* 383_RansomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_RansomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		087DCEAC2C85A76C005E3A47 /* 1346_CheckIfNandItsDoubleExist.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1346_CheckIfNandItsDoubleExist.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08A720CF2C7B27B200A34C3B /* 977_SquaresOfASortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 977_SquaresOfASortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08A720D02C7B2B5500A34C3B /* 1089_DuplicateZeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1089_DuplicateZeros.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08AE319F2C7DC2EA00A61EF9 /* 88_MergeSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 88_MergeSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -40,6 +41,7 @@
 				08A720D02C7B2B5500A34C3B /* 1089_DuplicateZeros.playground */,
 				080133052C79C9D700F53C4E /* 1295_FindNumbersWithEvenNumberOfDigits.playground */,
 				086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */,
+				087DCEAC2C85A76C005E3A47 /* 1346_CheckIfNandItsDoubleExist.playground */,
 				08C553CE2C675C45006FCB1D /* 1480_RunningSumOf1dArray.playground */,
 				08650D782C69FB150083C61D /* 1672_RichestCustomerWealth.playground */,
 				08C553CD2C675C15006FCB1D /* 2235_AddTwoIntegers.playground */,
