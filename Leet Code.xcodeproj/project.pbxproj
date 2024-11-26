@@ -16,6 +16,7 @@
 		086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1342_NumberOfStepsToReduceANumberToZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		086F6AD52C83057300495E63 /* 26_RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26_RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087136B72C918B4600A08726 /* 1299_ReplaceElementsWithGreatestElementOnRightSide.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1299_ReplaceElementsWithGreatestElementOnRightSide.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		087799EB2C957B1F0027FCD0 /* 283_MoveZeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 283_MoveZeroes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087C71952C71F4460026D705 /* 383_RansomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_RansomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087DCEAC2C85A76C005E3A47 /* 1346_CheckIfNandItsDoubleExist.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1346_CheckIfNandItsDoubleExist.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08A720CF2C7B27B200A34C3B /* 977_SquaresOfASortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 977_SquaresOfASortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -36,6 +37,7 @@
 				086F6AD52C83057300495E63 /* 26_RemoveDuplicatesFromSortedArray.playground */,
 				082419E82C81B1DB008BE7D1 /* 27_RemoveElement.playground */,
 				08AE319F2C7DC2EA00A61EF9 /* 88_MergeSortedArray.playground */,
+				087799EB2C957B1F0027FCD0 /* 283_MoveZeroes.playground */,
 				087C71952C71F4460026D705 /* 383_RansomNote.playground */,
 				08B1326D2C6B49C000481DA5 /* 412_FizzBuzz.playground */,
 				08E4FE2A2C6DEC13006F1673 /* 876_MiddleOfTheLinkedList.playground */,
