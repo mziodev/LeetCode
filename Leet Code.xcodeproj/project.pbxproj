@@ -15,6 +15,7 @@
 		0869FDAC2C70870E00DB54BD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		086ED7872C6C985A003D001F /* 1342_NumberOfStepsToReduceANumberToZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1342_NumberOfStepsToReduceANumberToZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		086F6AD52C83057300495E63 /* 26_RemoveDuplicatesFromSortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 26_RemoveDuplicatesFromSortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0870220C2CF77CDE003C4DC7 /* 1051_HeightChecker.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1051_HeightChecker.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087136B72C918B4600A08726 /* 1299_ReplaceElementsWithGreatestElementOnRightSide.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1299_ReplaceElementsWithGreatestElementOnRightSide.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087799EB2C957B1F0027FCD0 /* 283_MoveZeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 283_MoveZeroes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		087C71952C71F4460026D705 /* 383_RansomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_RansomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -46,6 +47,7 @@
 				08E9C8D22CF626670015C1AF /* 905_SortArrayByParity.playground */,
 				080343792C8C3CE1004F4249 /* 941_ValidMountainArray.playground */,
 				08A720CF2C7B27B200A34C3B /* 977_SquaresOfASortedArray.playground */,
+				0870220C2CF77CDE003C4DC7 /* 1051_HeightChecker.playground */,
 				08A720D02C7B2B5500A34C3B /* 1089_DuplicateZeros.playground */,
 				080133052C79C9D700F53C4E /* 1295_FindNumbersWithEvenNumberOfDigits.playground */,
 				087136B72C918B4600A08726 /* 1299_ReplaceElementsWithGreatestElementOnRightSide.playground */,
